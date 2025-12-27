@@ -1,4 +1,4 @@
-from db.models import Movie, Actor, Genre
+from db.models import Movie
 from django.db import models
 
 
